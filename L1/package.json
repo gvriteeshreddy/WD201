@@ -10,12 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vineeth-07/hello-node.git"
+    
   },
-  "bugs": {
-    "url": "https://github.com/Vineeth-07/hello-node/issues"
-  },
-  "homepage": "https://github.com/Vineeth-07/hello-node#readme",
+  
+  
   "description": "",
   "devDependencies": {
     "eslint": "^8.23.1",
